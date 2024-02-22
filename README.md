@@ -1,2 +1,1 @@
-Projeto para praticar consumo de API
-API utilizada para consumo: ViaCep
+Projeto para praticar consumo de API utilizando a API ViaCep.
